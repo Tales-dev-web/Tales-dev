@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Tales Henrique, tenho 26 anos, sou de Piedade-SP, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera. Sou apaixonado por tecnologia e atualmente focado em desenvolvimento web, estudando e praticando com projetos reais para evoluir como desenvolvedor Full Stack.
+Me chamo Tales Henrique, tenho 26 anos, sou de Piedade-SP, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera. Atualmente focado em desenvolvimento web, estudando e praticando com projetos reais para evoluir como desenvolvedor Full Stack.
 
 ---
  🤖 **Tecnologia e Tecnologias**
