@@ -1,4 +1,4 @@
-# 👨‍💻 Tales Henrique
+#  Tales Henrique
 ---
 
 **`Desenvolvedor FullStack`**
