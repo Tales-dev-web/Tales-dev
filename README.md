@@ -1,4 +1,4 @@
-# Tales Henrique
+
 ---
 
 **`Desenvolvedor FullStack`**
