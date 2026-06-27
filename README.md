@@ -1,109 +1,37 @@
+# Olá, eu sou o Tales Henrique! 👋
+
+### 🚀 Desenvolvedor em transição para Full Stack
+*Foco atual: Domínio total de Front-end & Evolução em Node.js*
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e dedico meus dias a construir interfaces modernas e performáticas, enquanto aprofundo meus conhecimentos no lado do servidor para me tornar um desenvolvedor Full Stack completo.
 
 ---
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Tales Henrique, tenho 26 anos, sou de Piedade-SP, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera. Atualmente focado em desenvolvimento web, estudando e praticando com projetos reais para evoluir como desenvolvedor Full Stack.
-
----
- 🤖 **Tecnologia**
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img
-align="left"
-alt="nodejs"
-title="nodeJs"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br>
-<br>
-<br>
+### 💻 No que estou trabalhando agora?
+- 🎨 *Front-end:* Refinando habilidades com *React.js, **Next.js* e estilização avançada com *Tailwind CSS*.
+- ⚙️ *Back-end:* Estudando a fundo *Node.js* e *TypeScript* para construção de APIs robustas.
+- 🗄️ *Banco de Dados:* Praticando modelagem relacional com *MySQL*.
 
 ---
-Busco uma oportunidade como estágiario ou desenvolvedor Full stack, onde eu possa contribuir e crescer profissionalmente.
 
+### 🛠️ Tecnologias & Ferramentas
 
+#### Front-end (Foco Principal)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+#### Back-end & Tools (Em Evolução)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-          
+---
+
+### 📈 Minhas Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales-dev-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales-dev-web&layout=compact&langs_count=7&theme=dracula"/>
+</p>
